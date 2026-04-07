@@ -75,6 +75,14 @@ Alibaba Cloud offers free trial quota for new users. Check the pricing informati
 
 This plugin connects your WordPress site to the DashScope API to use Qwen models.
 
+= Where can I report bugs or request features? =
+
+This plugin is open source and hosted on [GitHub](https://github.com/huzaifaalmesbah/ai-provider-for-alibaba-cloud).
+
+* **Report a bug:** [GitHub Issues](https://github.com/huzaifaalmesbah/ai-provider-for-alibaba-cloud/issues)
+* **Request a feature:** [GitHub Issues](https://github.com/huzaifaalmesbah/ai-provider-for-alibaba-cloud/issues)
+* **Contribute:** [Pull Requests](https://github.com/huzaifaalmesbah/ai-provider-for-alibaba-cloud/pulls)
+
 == Changelog ==
 
 = 0.1.0 =
