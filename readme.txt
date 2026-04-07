@@ -1,6 +1,6 @@
 === AI Provider for Alibaba Cloud ===
 Contributors: huzaifaalmesbah
-Tags: ai, alibaba-cloud, dashscope, qwen, connector
+Tags: ai, artificial intelligence, connector, alibaba-cloud, qwen
 Requires at least: 7.0
 Tested up to: 7.0
 Stable tag: 0.1.0
